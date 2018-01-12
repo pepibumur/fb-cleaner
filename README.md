@@ -1,3 +1,7 @@
 # fb-cleaner
 
-A description of this package.
+A command line tool written in Swift to clean your Facebook account data:
+
+```
+fb-cleaner --token xxxxx --photos --albums --posts
+```
